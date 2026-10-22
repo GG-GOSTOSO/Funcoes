@@ -1,12 +1,12 @@
 :root {
   --cor-fundo-1: #f6edff;
   --cor-fundo-2: #e7d8ff;
-  --cor-fundo-3: #d9c2ff;
+  --cor-fundo-3: #866035;
   --cor-principal: rgba(255, 255, 255, 0.7);
-  --cor-secundaria: #caa8ff;
-  --cor-destaque: #8c5ae7;
-  --cor-destaque-escuro: #6f3fcf;
-  --cor-texto: #3a1d5c;
+  --cor-secundaria: #56ca12;
+  --cor-destaque: #925e47;
+  --cor-destaque-escuro: #10fc24;
+  --cor-texto: #131f13;
   --cor-borda: #d9c6ff;
 }
 
